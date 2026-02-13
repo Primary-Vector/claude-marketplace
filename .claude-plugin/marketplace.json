@@ -17,6 +17,16 @@
       "description": "TTS plugin - speaks Claude's responses aloud using Kokoro ONNX. Fast, async playback with 10 diverse voice options.",
       "version": "1.2.5",
       "strict": true
+    },
+    {
+      "name": "wee-music",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Primary-Vector/claude-wee-music.git"
+      },
+      "description": "Background music plugin - plays randomized music while Claude works, with a jingle when it finishes.",
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }

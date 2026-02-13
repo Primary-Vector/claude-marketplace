@@ -29,6 +29,7 @@ This will download models, let you choose a voice, and configure hooks.
 | Plugin | Description |
 |--------|-------------|
 | **talk** | TTS plugin that speaks Claude's responses aloud using Kokoro ONNX |
+| **wee-music** | Background music plugin that plays tunes while Claude works |
 
 ## Requirements
 
